@@ -1,0 +1,340 @@
+.background{
+    background-image: url("./imgs/gradianred.jpg");
+}
+
+.name{
+    padding: 12px;
+    font-size: 33px;
+    color: rgb(248, 248, 248);
+}
+
+.headfoter{
+    background-color: rgb(218, 149, 59);
+    justify-content: star-end;
+    display: flex;
+    margin-right: 80px;
+    width: 40%;
+    margin-top: -89px;
+    margin-left: 1092px;
+    gap: 50px;
+    padding: 5px;
+    background: linear-gradient(to right, #000000, #ff0000);
+}
+
+.infos{
+    margin-left: 30px;
+    padding: 29px;
+    margin-top: 220px;
+    color: white;
+}
+
+.walid{
+    margin-left: 50px;
+    color: red;
+    font-size: 44px;
+}
+
+.blabla{
+    margin-left: 55px;
+    margin-top: -20px;
+    line-height: 24px;
+    font-style: italic;
+}
+
+.htmlcss{
+    justify-content: left;
+    display: flex;
+    gap: 30px;
+    margin-left: 50px;
+    margin-top: -20px;
+}
+
+.html5{
+    background-color: red;
+    width: 5%;
+    padding: 7px;
+    color: white;
+    border-radius: 12px;
+}
+
+.css{
+    background-color: red;
+    width: 2.5%;
+    padding: 5px;
+    color: white;
+    border-radius: 12px;
+}
+
+.bild{
+    position: relative;
+    top: -350px;
+    left: 1200px;
+    border-radius: 250px;
+}
+
+.next{
+    padding: 40px;
+    justify-content: center;
+    display: flex;
+    margin-top: -440px;
+    margin-left: -700px;
+}
+
+#button{
+    padding: 12px 30px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 0, 0);
+    font-size: 20px;
+    border: none;
+}
+
+.foter{
+    padding: 10px;
+    background-color: gray;
+}
+
+.foterimgs{
+    width: 50%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+/*zweiten*/
+
+.infox{
+    padding: 10px;
+    margin-top: 120px;
+}
+
+.frage1{
+    color: green;
+    font-size: 38px;
+    font-style: italic;
+    margin-left: 20px;
+}
+
+.info1{
+    width: 50%;
+    color: white;
+    margin-left: 60px;
+    font-size: 32px;
+    line-height: 40px;
+}
+
+.cadre{
+    border-radius: 350px;
+    margin-left: 1110px;
+    margin-top: -100px;
+}
+
+.cadre2{
+    border-radius: 350px;
+    margin-left: 1110px;
+    margin-top: -500px;
+}
+
+.cadre22{
+    margin-top: -71px;
+    margin-left: 52px;
+}
+
+.up{
+    margin-top: -280px;
+}
+
+.mich1{
+    width: 80%;
+    margin-left: 200px;
+    color: white;
+    margin-top: 100px;
+}
+
+.Studienweg{
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    width: 20%;
+    border-radius: 15px;
+    margin-left: 300px;
+}
+
+.mich{
+    font-size: 30px;
+    line-height: 40px;
+    padding: 20px;
+}
+
+.background2{
+    background-image: url("./imgs/gradianred.jpg");
+    margin-top: -220px;
+}
+
+.linu{
+    margin-top: 220px;
+    width: 50%;
+    margin-left: 500px;
+}
+
+.abschnitte{
+    background-color: red;
+    width: 22%;
+    padding: 10px;
+    border-radius: 15px;
+    color: white;
+    margin-left: 40px;
+}
+
+.hobbys{
+    background: linear-gradient(to left, #000000, #9e0101);
+    border-radius: 5px;
+    margin-left: -220px;
+    padding: 7px;
+    margin-top: 70px;
+}
+
+.hobbys1{
+    padding: 10px;
+    color: rgb(0, 0, 0);
+}
+
+.hobbys2{
+    line-height: 30px;
+}
+
+/*dreiten*/
+
+.titleser{
+    color: greenyellow;
+    margin-top: -70px;
+    margin-left: -400px;
+    font-size: 35px;
+}
+
+.myservices{
+    padding: 20px;
+    color: rgb(30, 180, 0);
+}
+
+.services{
+    margin-top: 120px;
+    padding: 35px;
+    justify-content: center;
+    display: flex;
+    gap: 130px;
+}
+
+.srv1{
+    background-color: rgb(46, 46, 46);
+    border-radius: 6px;
+}
+
+.srv2{
+    background-color: rgb(46, 46, 46);
+    border-radius: 6px;
+}
+
+.srv3{
+    background-color: rgb(46, 46, 46);
+    border-radius: 6px;
+}
+
+.photo1{
+    background-color: rgb(255, 255, 255);
+    padding: 5px;
+    margin-left: 100px;
+    margin-top: 5px;
+    border-radius: 90px;
+}
+
+.photo2{
+    background-color: rgb(255, 255, 255);
+    padding: 5px;
+    margin-left: 100px;
+    margin-top: 5px;
+    border-radius: 130px;
+}
+
+.photo3{
+    background-color: rgb(255, 255, 255);
+    padding: 5px;
+    margin-left: 100px;
+    margin-top: 5px;
+    border-radius: 90px;
+}
+
+.devwebs{
+    padding: 5px;
+    width: 90%;
+    margin-left: 5%;
+}
+
+.support{
+    padding: 5px;
+    width: 90%;
+    margin-left: 5%;
+}
+
+.trendsdesign{
+    padding: 5px;
+    width: 90%;
+    margin-left: 5%;
+}
+
+.srv2foter{
+    padding: 16px;
+    font-size: 20px;
+    line-height: 27px;
+    color: white;
+}
+
+.srv3foter{
+    color: white;
+    margin-left: 80px;
+}
+
+/*vierten*/
+
+.contakt{
+    margin-left: 10px;
+    padding: 20px;
+    margin-top: 200px;
+    line-height: 50px;
+}
+
+.meinknt{
+    color: greenyellow;
+}
+
+.meinknt2{
+    margin-left: 40px;
+}
+
+.facebook{
+    border-radius: 20px;
+}
+
+.insta{
+    border-radius: 20px;
+}
+
+.whatsapp{
+    border-radius: 17px;
+}
+
+.meinknt22{
+    margin-top: -205px;
+    line-height: 37px;
+    font-size: 25px;
+    color: white;
+    margin-left: 100px;
+}
+
+.ich3{
+    margin-left: 1200px;
+    margin-top: -350px;
+    border-radius: 25px;
+    box-shadow: 0 20px 88px rgba(255, 0, 0, 0.4);
+
+}
